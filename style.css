@@ -1,0 +1,17 @@
+body{
+	background-color: #009F75;
+}
+
+.navbar{
+	opacity: 0.8;
+	border-bottom: 1px solid #fff;
+}
+
+.jumbotron{
+	margin-top: 60px;
+	padding: 100px;
+}
+
+main{
+	margin-top: 30px;
+}
